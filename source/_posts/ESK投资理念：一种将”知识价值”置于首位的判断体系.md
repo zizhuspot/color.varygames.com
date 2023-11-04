@@ -1,5 +1,5 @@
 ---
-title: ESK investment philosophy: a judgment system that prioritizes "knowledge value".
+title: ESK investment philosophy  a judgment system that prioritizes "knowledge value".
 date: 2023-11-4 17:06:28
 categories:
   - Finance 
@@ -12,6 +12,7 @@ tags:
 description: ESK value investment emphasizes focusing on the original driving force of human civilization progress - "knowledge value".
 cover: https://raw.githubusercontent.com/brvchaos/image/main/20231104181353.png
 ---
+
 On November 3rd, Mi Lei, the founding partner of Zhongke Chuangxing, released the "ESK Value Investment Responsibility Report on Hard Technology" at the Photon Industry Development and Hard Technology Achievement 
 Transformation Forum of the 2023 Global Hard Technology Innovation Conference.
 
